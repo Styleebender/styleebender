@@ -1,20 +1,18 @@
 <h1 align="center">Greetings! 👋 </h1>
 <h3 align="center">AI / ML Engineer⚡️ </h3>
   
-<p align="center">I build 🧠 Intelligent Softwares with Machine Learning</p>
+<p align="center">Building 🧠 Intelligent Softwares with Genrative AI and Machine Learning</p>
 
 
 # 🌟 About Me:
 
-🧡 Hi there! I’m Rushi, an AI Solution Engineer with a proven track record of developing and deploying LLM powered applications and ML-based features to production.
+🧡 Hi there! I’m Rushi, an AI / ML Engineer with a proven track record of developing and deploying LLM powered applications and ML-based features to production.
 
-👨‍💻 Currently, I’m working on building LLM-powered applications and contributing to innovative AI solutions @ Infosys⚡️. where I align technical solutions with product strategy.
-
-🖥️ I have been involved in a wide range of AI projects and use-cases and Leading the development of AI-driven applications. 
+👨‍💻 Currently, I’m working on building LLM-powered applications and contributing to innovative AI solutions @ Infosys⚡️.  hands-on role in product engineering, aligning technical solutions with product strategy.
 
 🎉 Architect behind Infosys Applied AI Platform, an end-to-end solution streamlining the development and hosting of Generative AI applications with ML model building and deployment. 🚀
 
-💬 Feel free to inquire about Generative AI, Large Language Models (LLMs), AI Agents, Workflows, Chatflows, Machine leanring and leveraging Text and Image Documents for information extraction (NLP + CV).
+💬 Would love to talk about Generative AI, Large Language Models (LLMs), AI Agents, Workflows, Chatflows, Machine leanring and leveraging Text and Image Documents for information extraction (NLP + CV).
 
 
 </br>

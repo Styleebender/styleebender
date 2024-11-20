@@ -25,6 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-vispute/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/aniketmaurya)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aniketmaurya)
+[![Medium]([https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white))](https://discordapp.com/users/poly.math)
 
 <!---   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/aniketmaurya](https://stackoverflow.com/users/8052167/aniket-maurya))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aiwithaniket)--->

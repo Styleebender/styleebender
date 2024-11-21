@@ -14,12 +14,7 @@
 💬 Would love to talk about Generative AI, Large Language Models (LLMs), AI Agents, Workflows, Chatflows, Machine leanring and leveraging Text and Image Documents for information extraction (NLP + CV).
 
 
-</br>
 
-⚡  **Unpopular opinion**: _Bikes > Cars_.
-
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-vispute/)
 [![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](https://discordapp.com/users/poly.math)
@@ -41,6 +36,12 @@
 
 👨‍💻 I'm passionate about sharing insights on ML/AI and Programming through my blogs at https://aniketmaurya.com
 
+</br>
+
+⚡  **Unpopular opinion**: _Bikes > Cars_.
+
+
+<br>
 --->
 
 

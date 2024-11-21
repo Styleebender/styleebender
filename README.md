@@ -16,7 +16,7 @@
 
 </br>
 
-⚡  **Unpopular opinion**: _Chai > Coffee_ and _Light mode > dark mode_.
+⚡  **Unpopular opinion**: _Bikes > Cars_.
 
 
 <br>

@@ -3,7 +3,6 @@
   
 <p align="center">Building 🧠 Intelligent Softwares with Genrative AI and Machine Learning</p>
 
-
 # 🌟 About Me:
 
 🧡 Hi there! I’m Rushi, an AI / ML Engineer with a proven track record of developing and deploying LLM powered applications and ML-based features to production.

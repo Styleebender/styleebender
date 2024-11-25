@@ -18,6 +18,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-vispute/)
 [![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](https://discordapp.com/users/poly.math)
+[![Medium]([https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white](https://img.shields.io/badge/Medium-Medium?logo=Medium&color=black))](https://medium.com/@rushi.vispute29)
+
 
 
 ### Bored ?
